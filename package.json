@@ -1,0 +1,27 @@
+{
+  "name": "@genuino-blockchain-technologies/hophop",
+  "version": "0.0.1",
+  "description": "A helper for speeding up the YouTrack/GitLab workflow from the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mauro Constantinescu",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "meow": "^10.1.1",
+    "node-fetch": "^3.0.0",
+    "open": "^8.3.0",
+    "prettier": "^2.4.1",
+    "simple-git": "^2.46.0"
+  },
+  "type": "module",
+  "bin": {
+    "hophop": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Genuino-Blockchain-Technologies/hophop.git"
+  }
+}
