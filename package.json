@@ -1,6 +1,6 @@
 {
   "name": "@genuino-blockchain-technologies/hophop",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A helper for speeding up the YouTrack/GitLab workflow from the terminal",
   "main": "index.js",
   "scripts": {
